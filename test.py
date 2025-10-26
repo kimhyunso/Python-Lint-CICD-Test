@@ -1,7 +1,3 @@
-a = 10
+total = 10
 
-def asd():
-    a += 1
-    return a
-
-asd()
+print(total)
